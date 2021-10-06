@@ -9,7 +9,7 @@ void DataIntoTextFile(int NumberOfPasswords);
 
 int main(){
 
-  DataIntoTextFile(1000);
+  DataIntoTextFile(10000000000);
 
   return 0;
 }
